@@ -3,14 +3,14 @@
 You can view the live demo here: https://recipe-app-my-project.netlify.app/
 
 
-##Features:
+## Features:
 - Search for recipes
 - Updating the number of servings
 - Bookmark recipes
 - Creating and uploading your own recipes
 - Can save the bookmarks and saved recipes in local storage.
 
-##Knowledge used:
+## Knowledge used:
 In this project I have explored many important concepts in JavaScript such as
 - JavaScript Fundamentals
 - Object Oriented JavaScript
