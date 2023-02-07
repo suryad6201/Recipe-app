@@ -30,6 +30,6 @@ Also explored some other skills such as
 - Git version control
 - Netlify Deployment
 
-This [JavaScript](https://www.udemy.com/certificate/UC-cdb84c47-af64-4fa4-b133-8e56124f8846/) course from Udemy helped me a lot to learn advanced javascript concepts and to complete this project.
+[This JavaScript](https://www.udemy.com/certificate/UC-cdb84c47-af64-4fa4-b133-8e56124f8846/) course from Udemy helped me a lot to learn advanced javascript concepts and to complete this project.
 
 Thanks for viewing my project. Feel free to visit my other [projects.](https://github.com/suryad6201?tab=repositories)
